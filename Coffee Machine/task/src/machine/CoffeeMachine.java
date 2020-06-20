@@ -1,5 +1,7 @@
 package machine;
 
+// test update
+
 import java.util.Scanner;
 
 public class CoffeeMachine {
